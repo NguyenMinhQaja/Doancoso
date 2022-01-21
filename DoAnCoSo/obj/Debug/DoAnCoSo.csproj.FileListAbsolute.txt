@@ -1,0 +1,28 @@
+C:\Users\nguye\OneDrive\Máy tính\DoAnCoSo\DoAnCoSo\bin\Debug\DoAnCoSo.exe.config
+C:\Users\nguye\OneDrive\Máy tính\DoAnCoSo\DoAnCoSo\bin\Debug\DoAnCoSo.exe
+C:\Users\nguye\OneDrive\Máy tính\DoAnCoSo\DoAnCoSo\bin\Debug\DoAnCoSo.pdb
+C:\Users\nguye\OneDrive\Máy tính\DoAnCoSo\DoAnCoSo\obj\Debug\DoAnCoSo.csproj.AssemblyReference.cache
+C:\Users\nguye\OneDrive\Máy tính\DoAnCoSo\DoAnCoSo\obj\Debug\DoAnCoSo.Form1.resources
+C:\Users\nguye\OneDrive\Máy tính\DoAnCoSo\DoAnCoSo\obj\Debug\DoAnCoSo.Properties.Resources.resources
+C:\Users\nguye\OneDrive\Máy tính\DoAnCoSo\DoAnCoSo\obj\Debug\DoAnCoSo.csproj.GenerateResource.cache
+C:\Users\nguye\OneDrive\Máy tính\DoAnCoSo\DoAnCoSo\obj\Debug\DoAnCoSo.csproj.CoreCompileInputs.cache
+C:\Users\nguye\OneDrive\Máy tính\DoAnCoSo\DoAnCoSo\obj\Debug\DoAnCoSo.exe
+C:\Users\nguye\OneDrive\Máy tính\DoAnCoSo\DoAnCoSo\obj\Debug\DoAnCoSo.pdb
+C:\Users\nguye\OneDrive\Máy tính\DoAnCoSo\DoAnCoSo\obj\Debug\DoAnCoSo.View.frmHoaDon.resources
+C:\Users\nguye\OneDrive\Máy tính\DoAnCoSo\DoAnCoSo\obj\Debug\DoAnCoSo.View.frmKhachHang.resources
+C:\Users\nguye\OneDrive\Máy tính\DoAnCoSo\DoAnCoSo\obj\Debug\DoAnCoSo.View.frmNhanVien.resources
+C:\Users\nguye\OneDrive\Máy tính\DoAnCoSo\DoAnCoSo\obj\Debug\DoAnCoSo.View.frmSanPham.resources
+C:\Users\nguye\OneDrive\Máy tính\New folder\DoAnCoSo\DoAnCoSo\bin\Debug\DoAnCoSo.exe.config
+C:\Users\nguye\OneDrive\Máy tính\New folder\DoAnCoSo\DoAnCoSo\bin\Debug\DoAnCoSo.exe
+C:\Users\nguye\OneDrive\Máy tính\New folder\DoAnCoSo\DoAnCoSo\bin\Debug\DoAnCoSo.pdb
+C:\Users\nguye\OneDrive\Máy tính\New folder\DoAnCoSo\DoAnCoSo\obj\Debug\DoAnCoSo.csproj.AssemblyReference.cache
+C:\Users\nguye\OneDrive\Máy tính\New folder\DoAnCoSo\DoAnCoSo\obj\Debug\DoAnCoSo.Form1.resources
+C:\Users\nguye\OneDrive\Máy tính\New folder\DoAnCoSo\DoAnCoSo\obj\Debug\DoAnCoSo.Properties.Resources.resources
+C:\Users\nguye\OneDrive\Máy tính\New folder\DoAnCoSo\DoAnCoSo\obj\Debug\DoAnCoSo.View.frmHoaDon.resources
+C:\Users\nguye\OneDrive\Máy tính\New folder\DoAnCoSo\DoAnCoSo\obj\Debug\DoAnCoSo.View.frmKhachHang.resources
+C:\Users\nguye\OneDrive\Máy tính\New folder\DoAnCoSo\DoAnCoSo\obj\Debug\DoAnCoSo.View.frmNhanVien.resources
+C:\Users\nguye\OneDrive\Máy tính\New folder\DoAnCoSo\DoAnCoSo\obj\Debug\DoAnCoSo.View.frmSanPham.resources
+C:\Users\nguye\OneDrive\Máy tính\New folder\DoAnCoSo\DoAnCoSo\obj\Debug\DoAnCoSo.csproj.GenerateResource.cache
+C:\Users\nguye\OneDrive\Máy tính\New folder\DoAnCoSo\DoAnCoSo\obj\Debug\DoAnCoSo.csproj.CoreCompileInputs.cache
+C:\Users\nguye\OneDrive\Máy tính\New folder\DoAnCoSo\DoAnCoSo\obj\Debug\DoAnCoSo.exe
+C:\Users\nguye\OneDrive\Máy tính\New folder\DoAnCoSo\DoAnCoSo\obj\Debug\DoAnCoSo.pdb
